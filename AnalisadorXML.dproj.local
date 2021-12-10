@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/02 12:02:55.000.206,=C:\Users\Edson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/15 13:29:15.000.529,=C:\Users\Edson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/15 13:30:03.000.854,C:\Users\Edson\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi\# New\Analisador XML\Forms\uPrincipal.pas</Transaction>
+    <Transaction>2019/08/15 13:30:03.000.854,C:\Users\Edson\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Delphi\# New\Analisador XML\Forms\uPrincipal.fmx</Transaction>
+    <Transaction>2019/08/15 13:30:13.000.427,C:\Users\Edson\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi\# New\Analisador XML\AnalisadorXML.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
